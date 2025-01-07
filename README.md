@@ -93,6 +93,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shuvo22890&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
   <img src="https://streak-stats.demolab.com?user=shuvo22890&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
