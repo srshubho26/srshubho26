@@ -22,15 +22,11 @@
 
 <h2 align="left">🎯 Goal</h2>
 
-###
-
 <p align="left">Be a senior developer in next 2 years.</p>
 
 ###
 
 <h2 align="left">🎲 Fun fact</h2>
-
-###
 
 <p align="left">A random Facebook post is responsible for my programming profession.</p>
 
@@ -38,15 +34,11 @@
 
 <h2 align="left">Current activity</h2>
 
-###
-
 <p align="left">✨ I'm working on a crowd funding project<br>📚 Trying to polish my backend skills<br>🎯 Balancing academic and programming life<br>🎲 Working on personal skill to meet the industry standard</p>
 
 ###
 
 <h2 align="left">Skills</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -79,8 +71,6 @@
 ###
 
 <h2 align="left">Socials</h2>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/s-r-shuvo-555832150/" target="_blank">
