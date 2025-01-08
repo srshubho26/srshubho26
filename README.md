@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Fixing bugs is a routine job for me like eating and sleeping. But I didn't involve in this job academically. I don't belong to a programming background. Actually it's an accidental incident of my life. Now this accidental incident has become an undetachable part of my life.</p>
+<p align="left">Fixing bugs is a routine job for me like eating and sleeping. But I didn't involve in this field academically. I don't belong to a programming background. Actually it's an accidental incident of my life. Now this accidental incident has become an undetachable part of my life.</p>
 
 ###
 
