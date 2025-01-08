@@ -5,38 +5,30 @@
 ###
 
 <h1 align="left">Hey there👋</h1>
-
-###
-
 <p align="left">I'm S.R. Shuvo, a full-stack web developer.</p>
 
-###
+##
 
 <h2 align="left">About me</h2>
 
-###
-
 <p align="left">Fixing bugs is a routine job for me like eating and sleeping. But I didn't involve in this field academically. I don't belong to a programming background. Actually it's an accidental incident of my life. Now this accidental incident has become an undetachable part of my life.</p>
 
-###
+##
 
 <h2 align="left">🎯 Goal</h2>
-
 <p align="left">Be a senior developer in next 2 years.</p>
 
-###
+##
 
 <h2 align="left">🎲 Fun fact</h2>
-
 <p align="left">A random Facebook post is responsible for my programming profession.</p>
 
-###
+##
 
 <h2 align="left">Current activity</h2>
-
 <p align="left">✨ I'm working on a crowd funding project<br>📚 Trying to polish my backend skills<br>🎯 Balancing academic and programming life<br>🎲 Working on personal skill to meet the industry standard</p>
 
-###
+##
 
 <h2 align="left">Skills</h2>
 
@@ -68,7 +60,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 </div>
 
-###
+##
 
 <h2 align="left">Socials</h2>
 
