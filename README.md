@@ -94,10 +94,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=srshubho26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" width="49%" height="auto" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srshubho26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" width="49%" height="auto" alt="languages graph"  />
-  <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=srshubho26&theme=dark" alt="GitHub Streak">
-</a>
-
+  <img src="https://streak-stats.demolab.com/?user=srshubho26" alt="GitHub Streak">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=srshubho26&radius=16&theme=react&area=true&order=5" width="49%" height="auto" alt="activity-graph graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=srshubho26&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
