@@ -40,6 +40,10 @@
 
 ###
 
+<p align="left">✨ Currently I'm exploring Next JS<br>📚 Trying to polish my backend skills<br>🎯 Balancing academic and programming life<br>🎲 Working on personal skill to meet the industry standard</p>
+
+###
+
 <h2 align="left">Skills</h2>
 
 ###
